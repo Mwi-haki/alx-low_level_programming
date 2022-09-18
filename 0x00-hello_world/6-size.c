@@ -5,7 +5,7 @@
  *
  * Description: prints the size of various data types on the stdout
  *
- * Return: Always 0 (success)
+ * Return: 0
  */
 int main(void)
 {
@@ -17,8 +17,8 @@ int main(void)
 
 	printf("Size of char: %ld byte(s)\n", sizeof(c));
 	printf("Size of an int: %ld byte(s)\n", sizeof(i));
-	printf("Size of long: %ld byte(s)\n", sizeof(li));
-	printf("Size of long long: %d bytes(s)\n", sizeof(lli));
+	printf("Size of long int: %ld byte(s)\n", sizeof(li));
+	printf("Size of long long int: %d bytes(s)\n", sizeof(lli));
 	printf("Size of float: %d byte(s)\n", sizeof(f));
-	return 0;
+	return (0);
 }
