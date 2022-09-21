@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print array - prints n element os an array
+ * print_array - prints n element os an array
  * @a: array
  * @n: number of elements
  * Return: Nothing
