@@ -1,1 +1,1 @@
-Writes a function that converts a string to an integer.
+Writes a function that prints half of a string, followed by a new line.
