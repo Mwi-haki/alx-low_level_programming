@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * _strncat - for copying purpose
+ * _strncpy - for copying purpose
  * @dest: param1
  * @src: param2
  * @n: param3
