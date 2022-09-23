@@ -19,11 +19,11 @@ int main(void)
 			{
 				putchar(ch);
 				putchar(n);
-			}
 			if (ch != 56 || n != 57)
 			{
 				putchar(44);
 				putchar(32);
+			}
 			}
 		}
 	}
